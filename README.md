@@ -76,7 +76,7 @@ If you're interested in the *techniques* (Lua loaders, UI frameworks, module sys
 ## 👤 Author
 
 **[Your Name]**
-- GitHub: [@yourhandle](https://github.com/GhostExe-cloud)
+- GitHub: [@GhostExe-cloud](https://github.com/GhostExe-cloud)
 - LinkedIn: [Mahlatse Mkabane]
 
 ---
